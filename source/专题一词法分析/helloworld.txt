@@ -1,0 +1,36 @@
+(a + b) - c * d/e;
+$
+
+begin123
+$
+
+123tsads
+$
+
+~@“
+$
+
+#这里是注释
+Dstates := 123;
+p := 1;    j := 1;
+while    j <= p   do
+#这里也是注释
+(        i :=0;
+         if ei = 1  for    i <=  p
+             then   Dstates:=i
+             else    (p :=  p+1 ;
+                       Dstatesp :=e ;
+                       Dtrana := p ;
+)
+          j := j+1 ;
+)
+$
+
++i*i-
+$
+
+i+i*i-i/i+(i-i)
+$
+
+
+   
